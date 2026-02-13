@@ -2,7 +2,7 @@
 
 Sistema de destop para gerenciamento de umm **Lojinha de games** desenvolvida em **Java Swing** com persistencia em **MySQL via JDBC**, segundo o padrão **MVC +DAO** 
 
-O siatema permite cadrasto, edições, exclusão e listagem de jogos ** upload e preview da imagem ** dos produtos 
+O siatema permite cadrasto, edições, exclusão e listagem de jogos **upload e preview da imagem** dos produtos 
 
 ---
 #funcionalidade do pojeto
